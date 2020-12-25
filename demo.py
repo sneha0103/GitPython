@@ -10,3 +10,4 @@ c, d, e =4,5.6,"Demo"
 #print(e)
 print("{} {}".format("Value is",b))
 print(type(e))
+
