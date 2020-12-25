@@ -9,3 +9,7 @@ while it > 1:
     print(it)
     it = it-1
 print('While Loop Ends Here')
+print('Git code merge testing1')
+print('Git code merge testing2')
+print('Git code merge testing3')
+
