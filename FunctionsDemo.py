@@ -9,3 +9,5 @@ GreetMe("SNEHA GUPTA")
 
 print(AddIntegers(5,3))
 
+print(AddIntegers(9,8))
+print(AddIntegers(10,18))
